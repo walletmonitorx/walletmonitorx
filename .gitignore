@@ -1,19 +1,5 @@
-# Node / build
 node_modules/
 .next/
 .vercel/
-dist/
-out/
-
-# logs / OS
 *.log
-.DS_Store
 
-# envs
-.env
-.env.local
-
-# package locks
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
